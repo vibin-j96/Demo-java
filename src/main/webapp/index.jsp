@@ -4,7 +4,7 @@
     <title>Jenkins maven deployment</title>
 </head>
 <body>
-    <h1>This is mini CI CD pipeline project from jenkinsfile</h1>
+    <h1>This is mini jenkins slave CI CD mini project</h1>
     <p><a href="hello">Say Hello</a></p>
 </body>
 </html>
